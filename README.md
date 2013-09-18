@@ -1,7 +1,5 @@
-mp4-hls-transmuxer
-==================
-
 MP4 to HLS Transmuxer
+==================
 
 This tool performs transmuxing from MP4 to HLS.
 
@@ -16,7 +14,7 @@ Supported formats:
 - audio
 - original MP4
 - Apple QuickTime expension
-- files with CTTS atom in track
+- files with CTTS atom in TRAK
 
 This product is released under MIT license.
 
