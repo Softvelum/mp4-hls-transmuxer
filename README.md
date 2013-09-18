@@ -19,4 +19,4 @@ Supported formats:
 This product is released under MIT license.
 
 Please also take a look at our Nimble HTTP Streamer, the HLS edge server: https://wmspanel.com/nimble .
-MP4 to HLS transmuxing tool is made as investigate for further implementation as part of Nimble Streamer transmuxing feature set.
+MP4 to HLS transmuxing tool is made as investigate for further implementation of Nimble Streamer transmuxing feature set.
