@@ -13,7 +13,7 @@ Supported formats:
 - video
 - audio
 - original MP4
-- Apple QuickTime expension
+- Apple QuickTime extension
 - files with CTTS atom in TRAK
 
 This product is released under MIT license.
