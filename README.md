@@ -18,5 +18,8 @@ Supported formats:
 
 This product is released under MIT license.
 
-Please also take a look at our Nimble HTTP Streamer, the HLS edge server: https://wmspanel.com/nimble .
-MP4 to HLS transmuxing tool is made as investigate for further implementation of Nimble Streamer transmuxing feature set.
+This prototype was made as part of feature investigate for Nimble HTTP Streamer VOD streaming functionality.
+It currently supports MP4 transmuxing to HLS in VOD mode as origin server.
+
+Please refer to this page for details: https://wmspanel.com/nimble/vod_streaming
+
