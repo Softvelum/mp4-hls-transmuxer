@@ -23,4 +23,4 @@ It currently supports MP4 transmuxing to HLS in VOD mode as origin server.
 
 Please refer to this page for details: https://wmspanel.com/nimble/vod_streaming
 
-Please also take a look at UDP MPEG-TS to ABR HLS transmuzing: https://wmspanel.com/nimble/live_streaming
+Please also take a look at UDP MPEG-TS to ABR HLS transmuxing: https://wmspanel.com/nimble/live_streaming
