@@ -16,11 +16,9 @@ Supported formats:
 - Apple QuickTime extension
 - files with CTTS atom in TRAK
 
-This product is released under MIT license.
-
-This prototype was made as part of feature investigate for Nimble HTTP Streamer VOD streaming functionality.
+This prototype was made as part of feature investigate for Nimble Streamer VOD streaming functionality.
 It currently supports MP4 transmuxing to HLS in VOD mode as origin server.
-
 Please refer to this page for details: https://wmspanel.com/nimble/vod_streaming
 
-Please also take a look at UDP MPEG-TS to ABR HLS transmuxing: https://wmspanel.com/nimble/live_streaming
+
+This product is released under MIT license.
