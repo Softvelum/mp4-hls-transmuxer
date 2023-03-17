@@ -18,7 +18,7 @@ Supported formats:
 
 This prototype was made as part of feature investigate for Nimble Streamer VOD streaming functionality.
 It currently supports MP4 transmuxing to HLS in VOD mode as origin server.
-Please refer to this page for details: https://wmspanel.com/nimble/vod_streaming
+Please refer to this page for details: https://softvelum.com/nimble/vod_streaming/
 
 
 This product is released under MIT license.
